@@ -1,0 +1,39 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Emergence-of-Cooperation-in-the-one-shot-Prisoner-s-Dilemma-through-Discriminatory-and-Samaritan-AIs
+message: >-
+  This repository contains the code used to generate the
+  images of the article "Emergence of Cooperation in the
+  one-shot Prisoner’s Dilemma through Discriminatory and
+  Samaritan AIs" 
+type: software
+authors:
+  - given-names: Jesús A.
+    family-names: Moreno López
+    email: jeslop@ifisc.uib-csic.es
+    affiliation: IFISC(UIB-CSIC)
+    orcid: 'https://orcid.org/0000-0001-9715-5962'
+  - given-names: José María
+    family-names: Ramos Fernández
+    email: alu0101100883@ull.edu.es
+    affiliation: 'Universidad de Las Palmas de Gran Canaria, Spain'
+  - given-names: Filippo
+    family-names: Zimmaro
+    email: filippo.zimmaro@phd.unipi.it
+    affiliation: >-
+      Department of Mathematics, University of Bologna and
+      Department of Computer Science, University of Pisa
+    orcid: 'https://orcid.org/0009-0009-8674-9904'
+  - given-names: Manuel
+    family-names: Miranda
+    email: m2bmanu@gmail.com
+    affiliation: IFISC (UIB-CSIC)
+    orcid: 'https://orcid.org/0000-0003-0424-6211'
+identifiers:
+  - type: doi
+    value: 10.48550/arXiv.2306.17747
+    description: ArXiv initial preprint
+license: MIT
